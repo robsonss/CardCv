@@ -1,0 +1,97 @@
+/*==========================================================*/
+/* ================= Style Color Orange ===================*/
+/*========================================================*/
+
+/* ----- card ----- */
+.card .info {
+	background-color: #e67e22;
+}
+
+/* ----- nav ----- */
+#nav ul li {
+	background-color: #e67e22;
+}
+
+#nav ul li:hover {
+	background-color: #e67e22;
+}
+
+.nav-toggle {
+  background: #FFF url(../assets/responsive-nav/img/nav-orange.png) no-repeat 48% 49%;
+}
+
+/* ----- whatdo -----*/
+.whatdo .circle {
+	border: 6px solid #e67e22;
+}
+
+.whatdo .circle:hover {
+	background-color: #e67e22;
+	border: 6px solid #7F8C8D;
+}
+
+/* ----- title-page -----*/
+.title-page:before {
+	background-color: #e67e22;
+}
+
+/* ----- adress contact -----*/
+.adress .column {
+	border-left: 3px solid #e67e22;
+}
+
+/* ----- Progress-Bar for skills ----- */
+
+.progressbar .prog{
+	background-color: #e67e22;
+}
+
+.progressbar-default {
+	background-color: #e67e22;
+}
+
+/* ----- about elements for page about and resume----- */
+.about-career .column {
+	border-left: 3px solid #e67e22;
+}
+
+/* ----- portfolio----- */
+.portfolio-menu a.current {
+	background-color: #e67e22;
+}
+
+.portfolio-menu a:hover {
+	background-color: #e67e22;
+}
+
+/* ----- blog elements -----*/
+.blog-page .post-view .view-img {
+	border-top: 4px solid #e67e22;
+}
+
+/* ----- scrollbar elements ----- */
+.mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar {
+	background-color: #e67e22;
+}
+
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+	background-color: #e67e22;
+}
+
+/* ----- portfolioSigle portfolio -----*/
+.portfolioSigle.info {
+	border-top: 5px solid #e67e22;
+}
+
+.portfolioSigle.about .title{
+	background-color: #e67e22;
+}
+
+/* ----- buttons -----*/
+.btn-hard{
+	background-color: #e67e22;
+}
+
+.btn-hard:hover{
+	background-color: #d35400;
+}
